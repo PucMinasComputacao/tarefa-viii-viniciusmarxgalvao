@@ -12,10 +12,10 @@
 
 ## Print do Console do site JS e JSON
 
-![alt text](<public/images/printconsole.png>)
+![alt text](<./public/images/printconsole.png>)
 
 ## Print do resumo Div 
 
-![alt text](<public/images/resumodiv.png>)
+![alt text](<./public/images/resumodiv.png>)
 
 (*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo reponsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
