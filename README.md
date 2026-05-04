@@ -1,26 +1,21 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/LuUWxNIu)
-# Trabalho Prático - Semana 6
+# Trabalho Prático - (SEMANA 8)
 
-Nessa atividade, como sempre, vamos evoluir o que foi feito na semana anterior. Fique atento para fazer o projeto da semana anterior e dar sequência nessa jornada.
-
-No trabalho dessa semana vamos alterar o projeto para que a responsividade da home-page seja feita, agora, com o framework Bootstrap.
+"Atividade Prática - Objetos e Arrays (JSON)" 
 
 **IMPORTANTE 1:** Você deve alterar apenas os arquivos **`README.md`**, **`index.html`** e **`styles.css`**, podendo incluir outros arquivos como imagens na pasta **`images`**, caso necessário. Deixe todos os demais arquivos e pastas desse repositório inalterados. **PRESTE MUITA ATENÇÃO NISSO.**
 
 ## Informações Gerais
+*Acredito que o README desta atividade esteja errado, pois essa é a atividade 8 e este arquivo é da atividade 6. Seguirei as instruções da Atividade 8.* 
+- Nome: Vinícius Marx Galvão
+- Matricula: 913852
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+## Print do Console do site JS e JSON
 
-## Print da versão responsiva com Bootstrap [DESKTOP]
+![alt text](public/images/printconsole.png)
 
-<<  COLOQUE A IMAGEM AQUI >>
+## Print do resumo Div 
 
-## Print da versão responsiva com Bootstrap [MOBILE] (*)
-
-<<  COLOQUE A IMAGEM AQUI >>
-
+![alt text](public/images/resumodiv.png)
 
 (*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo reponsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
